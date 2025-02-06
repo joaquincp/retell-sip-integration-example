@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@‎jambonz/node-client-ws": "^0.1.57",
+    "@jambonz/node-client-ws": "^0.1.57",
     "express": "^4.21.1",
     "pino": "^9.5.0",
     "undici": "^6.20.1"
